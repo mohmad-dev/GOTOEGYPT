@@ -194,9 +194,9 @@ body {
 /* mopile */
 @media (max-width: 680px) {
   .navbar-expand-lg .navbar-nav {
-    flex-direction: row;
+    flex-direction: column;
     width: 100%;
-    justify-content: space-evenly;
+    justify-content: space-between;
   }
 }
 
